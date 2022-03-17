@@ -1,0 +1,24 @@
+.bg-dark-gradient {
+  background: rgb(8, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(8, 0, 36, 1) 0%,
+    rgba(9, 24, 121, 1) 35%,
+    rgb(39, 86, 124) 100%
+  );
+}
+.card-header {
+  background: rgb(0, 69, 255);
+  background: linear-gradient(
+    90deg,
+    rgb(27, 33, 49) 2%,
+    rgb(21, 28, 79) 35%,
+    rgba(8, 0, 36, 1) 82%
+  );
+  color: #fff;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
